@@ -16,7 +16,7 @@ Before you begin, ensure that you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/sabahat-saeed/symphony_basic1.git
+    git clone https://github.com/sabahat-saeed/symfony_basic1.git
     ```
 
 2. Install dependencies:
