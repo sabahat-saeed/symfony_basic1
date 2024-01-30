@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a Symfony project showcasing various features such as Doctrine ORM, Dependency Injection, Middleware and Filters, RESTful APIs for React, Event Dispatcher, and Symfony Flex. The project is designed for learning purposes, and the code is heavily commented to assist in understanding each component.
+This is a Symfony project showcasing various features such as Doctrine ORM, mongo DB, Dependency Injection, Middleware and Filters, RESTful APIs for React, Event Dispatcher, and Symfony Flex. The project is designed for learning purposes, and the code is heavily commented to assist in understanding each component.
 
 ## Prerequisites
 
